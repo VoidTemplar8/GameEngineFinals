@@ -1,0 +1,2 @@
+C:\Users\loglo\Downloads\Third Year 1st Semester\Game Engine Design & Implementation\Lab 4\SimplePlugin\Debug\SimplePlugin.exe
+C:\Users\loglo\Downloads\Third Year 1st Semester\Game Engine Design & Implementation\Lab 4\SimplePlugin\Debug\SimplePlugin.pdb
